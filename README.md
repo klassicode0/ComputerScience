@@ -2,6 +2,8 @@
 
 > CS study group
 
+<br><br>
+
 ## 🔨 Commit Convention
 
 📁 폴더 CU ex) Create [주제], Update [주제]
@@ -14,7 +16,14 @@
 
 🎉 Initial commit
 
-## 목차
+<br><br>
 
-### 1주차
+## 📜 Questions
+
+### 10주차
+
+1. [프로그래밍] MSA에 대해 설명하시오.
+2. [웹] Functional CSS에 대해 설명하시오.
+3. [[DB] GraphQL에 대해 설명하시오.](./tree/master/DB/GraphQL)
+4. [웹] SEO에 대해 설명하고, SEO를 개선하는 방법에 대해 말하시오.
 
