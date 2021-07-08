@@ -2,7 +2,7 @@
 
 <br>
 
-![image-20210708230132189](/Users/yeonglong/Library/Application Support/typora-user-images/image-20210708230132189.png)
+![image-20210708231134941](hogeun.assets/image-20210708231134941.png)
 
 > stateofjs 에서 실시한 설문조사의 결과, 가운데 GraphQL의 그래프를 보면 2016년부터 현재까지 긍정적으로 생각하거나 한번이라도 사용해본 개발자의 수가 급격하게 증가함을 볼 수 있다.
 
