@@ -6,13 +6,13 @@
 
 ## 🔨 Commit Convention
 
-|   구분    | 작성 예시                                  |
-| :-------: | :----------------------------------------- |
-|   Init    | 🎉 inital commit                            |
-| 문제 수정 | 📁 Update Python-this                       |
-|  글 작성  | 📝 Create DB-GraphQL by ssmin0606           |
-|  글 수정  | 🩹 Update OS-process-and-thread by gyoforit |
-|  글 삭제  | 💣 Delete Network-TCP/IP by klassicode0     |
+|   구분    | 작성 예시                                |
+| :-------: | :--------------------------------------- |
+|   Init    | 🎉 inital commit                          |
+| 문제 수정 | 📁 Update Python-this                     |
+|  글 작성  | 📝 Create DB-GraphQL by sangmin           |
+|  글 수정  | 🩹 Update OS-process-and-thread by eungyo |
+|  글 삭제  | 💣 Delete Network-TCP/IP by geonyu        |
 
 <br>
 
