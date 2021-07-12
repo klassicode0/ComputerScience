@@ -30,7 +30,7 @@
 ### 10주차
 
 1. [프로그래밍] MSA에 대해 설명하시오.
-2. [[웹] Functional CSS에 대해 설명하시오.](./Web/Funcional_CSS)
+2. [[웹] Functional CSS에 대해 설명하시오.](./Web/Functional_CSS)
 3. [[DB] GraphQL에 대해 설명하시오.](./DB/GraphQL)
 4. [웹] SEO에 대해 설명하고, SEO를 개선하는 방법에 대해 말하시오.
 
