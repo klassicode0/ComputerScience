@@ -2,7 +2,7 @@
 
 <br>
 
-![Functional CSS: Meet Tailwind CSS | by Riccardo Giorato | Better Programming](hogeun.assets/1*gUtbT2u9_TZN8MYoQFzpSg.png)
+![Functional CSS: Meet Tailwind CSS | by Riccardo Giorato | Better Programming](hogeun.assets/image.png)
 
 > 함수형 CSS를 사용하는 웹 프레임워크인 Tailwind CSS의 HTML 코드 예시
 
