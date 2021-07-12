@@ -8,7 +8,7 @@
 
 |   구분    | 작성 예시                                |
 | :-------: | :--------------------------------------- |
-|   Init    | 🎉 inital commit                          |
+|   Init    | 🎉 Initial commit                         |
 | 문제 수정 | 📁 Update Python-this                     |
 |  글 작성  | 📝 Create DB-GraphQL by sangmin           |
 |  글 수정  | 🩹 Update OS-process-and-thread by eungyo |
