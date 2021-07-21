@@ -12,25 +12,19 @@
 
 <br>
 
-1. 상호 배제 (Mutual exclusion)
+1. **상호 배제 (Mutual exclusion)**
 
     특정 자원을 한 프로세스에서 사용중인 경우, 다른 프로세스는 해당 자원을 사용할 수 없어야 합니다.
 
-    <br>
-
-2. 점유 대기 (Hold and wait or resource holding)
+2. **점유 대기 (Hold and wait or resource holding)**
 
     다른 프로세스에서 사용하는 자원을 사용하기 위해 대기중인 프로세스가 하나 이상의 자원을 사용(점유)하고 있어야 합니다.
 
-    <br>
-
-3. 비선점 (No preemption)
+3. **비선점 (No preemption)**
 
     특정 자원을 한 프로세스에서 사용중인 경우, 다른 프로세스가 해당 자원을 강제로 뺏을 수 없어야 합니다.
 
-    <br>
-
-4. 순환 대기 (Circular wait)
+4. **순환 대기 (Circular wait)**
 
     교착 상태의 각 프로세스는 순환적으로 이전의 프로세스가 요구하는 자원을 점유한 체, 다음의 프로세스가 사용중인 자원을 사용하기 위해 대기하고 있어야 합니다.
 
