@@ -8,13 +8,13 @@
 
 ## :sparkles: Commit Convention​ :sparkles:
 
-|   구분    |    이모지     |             입력             | 작성 예시                                |
-| :-------: | :-----------: | :--------------------------: | :--------------------------------------- |
-|   Init    |    :tada:     |           `:tada:`           | 🎉 Initial commit                         |
-| 문제 수정 | :file_folder: | `:file_folder:`:file_folder: | 📁 Update Python-this                     |
-|  글 작성  |    :memo:     |        `:memo:`:memo:        | 📝 Create DB-GraphQL by sangmin           |
-|  글 수정  |       🩹       |     `:adhesive_bandage:`     | 🩹 Update OS-process-and-thread by eungyo |
-|  글 삭제  |    :bomb:     |        `:bomb:`:bomb:        | 💣 Delete Network-TCP/IP by geonyu        |
+|   구분    |    이모지     |         입력         | 작성 예시                                |
+| :-------: | :-----------: | :------------------: | :--------------------------------------- |
+|   Init    |    :tada:     |       `:tada:`       | 🎉 Initial commit                         |
+| 문제 수정 | :file_folder: |   `:file_folder:`    | 📁 Update Python-this                     |
+|  글 작성  |    :memo:     |       `:memo:`       | 📝 Create DB-GraphQL by sangmin           |
+|  글 수정  |       🩹       | `:adhesive_bandage:` | 🩹 Update OS-process-and-thread by eungyo |
+|  글 삭제  |    :bomb:     |       `:bomb:`       | 💣 Delete Network-TCP/IP by geonyu        |
 
 <br>
 
