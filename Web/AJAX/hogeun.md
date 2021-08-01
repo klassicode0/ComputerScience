@@ -4,7 +4,7 @@
 
 ![img](hogeun.assets/image.png)
 
-> 서버에서 처리되던 데이터 처리의 일부가 AJAX를 이용한 브라우저로 넘어왔다. (이미지 출처 : https://ko.wikipedia.org/wiki/Ajax)
+> 서버에서 처리되던 데이터 처리의 일부가 AJAX를 이용한 브라우저로 넘어왔습니다. (이미지 출처 : https://ko.wikipedia.org/wiki/Ajax)
 
 <br>
 
