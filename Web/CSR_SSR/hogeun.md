@@ -46,7 +46,9 @@ client 를 위한 코드 작업이 필요 없기 때문에 노동력이 비교�
 
 <br><br>
 
-* [NAVER D2 - 어서 와, SSR은 처음이지?](https://d2.naver.com/helloworld/7804182)
+> 출처 목록
+>
+> * [NAVER D2 - 어서 와, SSR은 처음이지?](https://d2.naver.com/helloworld/7804182)
 
 <br><br>
 

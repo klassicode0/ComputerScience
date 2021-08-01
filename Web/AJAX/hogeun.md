@@ -16,7 +16,9 @@ AJAX는 비동기적 JavaScript와 XML입니다. 기술적인 패러다임을 �
 
 <br><br>
 
-* https://ko.wikipedia.org/wiki/Ajax
+> 출처 목록
+>
+> * https://ko.wikipedia.org/wiki/Ajax
 
 <br><br>
 

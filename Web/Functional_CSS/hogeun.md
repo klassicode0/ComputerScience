@@ -24,4 +24,10 @@ Functional CSS는 Functional Programming과 비슷합니다. 함수형 프로그
 
 <br><br>
 
-- [https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/
+> 출처 목록
+>
+> * [https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/
+
+<br><br>
+
+Fin.

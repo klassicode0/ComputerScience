@@ -56,6 +56,12 @@ SELECT plot_id, species_id, sex, weight, ROUND(weight / 1000.0, 2) FROM surveys;
 
 <br><br>
 
-- https://tech.kakao.com/2019/08/01/graphql-basic/
-- https://graphql.org/
-- https://2020.stateofjs.com/en-US/technologies/datalayer/
+> 출처 목록
+>
+> * https://tech.kakao.com/2019/08/01/graphql-basic/
+> * https://graphql.org/
+> * https://2020.stateofjs.com/en-US/technologies/datalayer/
+
+<br><br>
+
+Fin.

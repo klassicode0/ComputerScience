@@ -28,7 +28,7 @@
 
 > 체이닝(Chaining)을 통해 해쉬 충돌에 대처하는 모습 (출처 : https://en.wikipedia.org/wiki/Hash_table)
 
-<br>
+<br><br>
 
 > 출처 목록
 >

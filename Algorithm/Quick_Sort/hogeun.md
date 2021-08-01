@@ -33,9 +33,11 @@ QuickSort의 과정은 재귀적으로 반복되는 분할정복으로 진행되
 7. Pivot을 기준으로 앞쪽과 뒤쪽의 배열에 대해 각각 과정 1~6을 반복합니다. (Devide)
 8. 정렬 완료
 
-<br>
+<br><br>
 
-* https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
+> 출처 목록
+>
+> * https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
 
 <br><br>
 

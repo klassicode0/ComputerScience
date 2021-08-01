@@ -20,10 +20,12 @@
 
 <br><br>
 
-* [Google - 검색엔진 최적화(SEO) 기본 가이드](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko)
-* [Microsoft - 소기업을 위한 SEO: 알아두어야 할 모든 것](https://www.microsoft.com/ko-kr/microsoft-365/business-insights-ideas/resources/seo-for-small-businesses-everything-you-need-to-know)
-* [BLOTER - 검색엔진 최적화, SEO를 알아봅시다](https://www.bloter.net/newsView/blt201805130001)
-* [위키백과](https://ko.wikipedia.org/wiki/%EA%B2%80%EC%83%89_%EC%97%94%EC%A7%84_%EC%B5%9C%EC%A0%81%ED%99%94)
+> 출처 목록
+>
+> * [Google - 검색엔진 최적화(SEO) 기본 가이드](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ko)
+> * [Microsoft - 소기업을 위한 SEO: 알아두어야 할 모든 것](https://www.microsoft.com/ko-kr/microsoft-365/business-insights-ideas/resources/seo-for-small-businesses-everything-you-need-to-know)
+> * [BLOTER - 검색엔진 최적화, SEO를 알아봅시다](https://www.bloter.net/newsView/blt201805130001)
+> * [위키백과](https://ko.wikipedia.org/wiki/%EA%B2%80%EC%83%89_%EC%97%94%EC%A7%84_%EC%B5%9C%EC%A0%81%ED%99%94)
 
 <br><br>
 

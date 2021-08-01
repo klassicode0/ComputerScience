@@ -18,8 +18,10 @@ C의 장점도 물론 있습니다. C는 운영체제를 개발할 수 있고, �
 
 <br><br>
 
-* [혼공 - C언어와 Java의 차이점을 표 한 장으로 정리하겠습니다.](https://hongong.hanbit.co.kr/c%EC%96%B8%EC%96%B4-java-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%A0%95%EB%A6%AC%ED%91%9C/)
-* [YoungDev - C와 Java의 특징과 차이점](https://youngdev57.tistory.com/68)
+> 출처 목록
+>
+> * [혼공 - C언어와 Java의 차이점을 표 한 장으로 정리하겠습니다.](https://hongong.hanbit.co.kr/c%EC%96%B8%EC%96%B4-java-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%A0%95%EB%A6%AC%ED%91%9C/)
+> * [YoungDev - C와 Java의 특징과 차이점](https://youngdev57.tistory.com/68)
 
 <br><br>
 

@@ -24,4 +24,10 @@ TDD로 작성된 코드는 복잡한 코드에 대해 떠올리기 전에 실행
 
 <br><br>
 
-* ["테스트 주도 개발" - 켄트 백 저 / 인사이트 / 2014](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
+> 출처 목록
+>
+> * ["테스트 주도 개발" - 켄트 백 저 / 인사이트 / 2014](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
+
+<br><br>
+
+Fin.
