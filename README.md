@@ -1,8 +1,6 @@
 # Computer Science :man_technologist: :woman_technologist: :man_technologist:
 
-> 1주일에 4문제씩 기술 면접을 대비하기 위한 CS 그룹 스터디입니다.
->
-> since 3rd March, 2021
+> 1주일에 4문제씩 기술 면접을 대비하기 위한 CS 그룹 스터디입니다. (since 2021.03)
 
 <br>
 
