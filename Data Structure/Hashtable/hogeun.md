@@ -2,7 +2,7 @@
 
 <br>
 
-![img](hogeun.assets/315px-Hash_table_3_1_1_0_1_0_0_SP.svg.png)
+![img](hogeun.assets/315px-Hash_table_3_1_1_0_1_0_0_SP.png)
 
 > 해쉬 함수를 통해 Key 값이 배열의 인덱스에 매핑되는 모습 (출처 : https://en.wikipedia.org/wiki/Hash_table)
 
@@ -24,7 +24,7 @@
 
 <br>
 
-![img](hogeun.assets/450px-Hash_table_5_0_1_1_1_1_1_LL.svg.png)
+![img](hogeun.assets/450px-Hash_table_5_0_1_1_1_1_1_LL.png)
 
 > 체이닝(Chaining)을 통해 해쉬 충돌에 대처하는 모습 (출처 : https://en.wikipedia.org/wiki/Hash_table)
 

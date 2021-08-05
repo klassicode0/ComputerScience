@@ -2,7 +2,7 @@
 
 <br>
 
-![img](hogeun.assets/1*YHHSa-AdCYxlERxRvXjZ2g.png)
+![img](hogeun.assets/image.png)
 
 > Python의 `<iterator>` 객체는 `__iter()__`, `__next()__` 로 데이터를 하나씩만 조회할 수 있는 특별한 객체입니다.
 
