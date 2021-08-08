@@ -13,6 +13,7 @@
 |  글 작성  |    :memo:     |       `:memo:`       | 📝 Create DB-GraphQL by sangmin           |
 |  글 수정  |       🩹       | `:adhesive_bandage:` | 🩹 Update OS-process-and-thread by eungyo |
 |  글 삭제  |    :bomb:     |       `:bomb:`       | 💣 Delete Network-TCP/IP by geonyu        |
+|  버그 수정  |    :bug:    |  `:bug:`      | 🐛 Bugfix by hogeun        |
 
 <br>
 
